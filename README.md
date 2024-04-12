@@ -5,6 +5,7 @@
 
 **WARNING: This repository now uses macOS 14 Sonoma.
 
+![About my Mac](info.png)
 
 
 ## Specification
